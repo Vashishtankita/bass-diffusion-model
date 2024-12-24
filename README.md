@@ -25,3 +25,9 @@ This analysis can be applied to:
  - Predicting adoption of new products or technologies.
  - Estimating market potential for innovative products.
  - Strategic planning for product launches.
+
+# Tableau Worksheets- 
+
+![image](https://github.com/user-attachments/assets/da8d79f8-1f78-4c3b-be4c-7f6a4080ead2)
+![image](https://github.com/user-attachments/assets/54561142-6e6d-4390-b24d-831878083bd1)
+
